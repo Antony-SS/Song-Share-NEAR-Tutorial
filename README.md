@@ -2,4 +2,4 @@ A tutorial to teach users on the NEAR network how to create a deploy a basic dap
 
 You can find the complete outline at the notion link below
 
-[Tutorial Outline] https://antony-ss.notion.site/Song-Share-on-NEAR-7dcaf127a857465382b635d8ec69162b
+[Tutorial Outline](https://antony-ss.notion.site/Song-Share-on-NEAR-7dcaf127a857465382b635d8ec69162b)
